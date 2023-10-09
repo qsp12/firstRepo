@@ -7,7 +7,7 @@ public class TC2 {
 @Test
 public void m2()
 {
-  Reporter.log("m2 excuted");	
+  Reporter.log("m2 excuted fast");	
 
 
 }
