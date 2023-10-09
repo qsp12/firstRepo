@@ -7,6 +7,6 @@ public class TC3 {
   @Test
   public void m3()
   {
-	  Reporter.log("m3 excuted");
+	  Reporter.log("m3 excuted update");
   }
 }
