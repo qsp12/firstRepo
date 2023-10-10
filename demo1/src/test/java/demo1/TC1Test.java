@@ -6,12 +6,12 @@ import org.testng.annotations.Test;
 
 
 
-public class TC1 {
+public class TC1Test {
 @Test
 
 public  void m1()
 {
 	
-Reporter.log("m1 executed ");
+Reporter.log("m1 executed ",true);
 }
 }
